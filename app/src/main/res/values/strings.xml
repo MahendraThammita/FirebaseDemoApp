@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="hintID">Pleased Enter Student ID</string>
+    <string name="hintName">Please Enter Student Name</string>
+    <string name="hintAdd">Please Enter Student Address</string>
+    <string name="hintOonNo">Please Enter Student Contact No</string>
+    <string name="SaveB">SAVE</string>
+    <string name="ShowB">SHOW</string>
+    <string name="UpdateB">UPDATE</string>
+    <string name="DelB">DELETE</string>
+</resources>
